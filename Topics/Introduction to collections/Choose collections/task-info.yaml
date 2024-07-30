@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: List
+  - text: Range
+  - text: Array
+  - text: Get
+  - text: Map
+  - text: Set
+  - text: Tree
+  - text: Table
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10402#comment
+status: Solved
+record: -1
+local_check: false

@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "true"
+  - text: 0
+  - text: 1
+  - text: "false"
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4526#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 25 May 2024 07:17:09 UTC"
+record: -1
+selected_options:
+  - 0
+custom_name: What is the result?
+local_check: false

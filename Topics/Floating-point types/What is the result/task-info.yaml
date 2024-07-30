@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 3.0
+  - text: 2.7
+  - text: 1.1
+  - text: 2.1
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4504#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 30 Jul 2024 13:49:32 UTC"
+record: -1
+selected_options:
+  - 1
+custom_name: What is the result?
+local_check: false

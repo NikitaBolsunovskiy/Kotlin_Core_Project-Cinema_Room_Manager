@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: For handling exceptions without stopping the whole program
+  - text: For programmers who are not sure their code will work
+  - text: For creating new exceptions
+  - text: To stop the program safely in case of an exception thrown
+  - text: In order for the program to stop if an exception could potentially occur
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10623#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 30 Jul 2024 13:05:25 UTC"
+record: -1
+selected_options:
+  - 0
+local_check: false

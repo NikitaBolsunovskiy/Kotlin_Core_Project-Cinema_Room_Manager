@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: John
+  - text: Mary
+  - text: Olivia
+  - text: Alexander
+  - text: Andrew
+  - text: Emily
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4527#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 25 May 2024 07:28:59 UTC"
+record: -1
+selected_options:
+  - 0
+  - 1
+  - 3
+local_check: false

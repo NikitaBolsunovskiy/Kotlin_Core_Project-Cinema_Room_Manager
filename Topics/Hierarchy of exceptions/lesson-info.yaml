@@ -1,0 +1,10 @@
+content:
+  - Theory
+  - Handling parsing of a string into an integer
+  - Match descriptions
+  - Handling division by zero exception in a program
+  - Handling division by zero error
+  - RuntimeException
+  - Fix the code
+  - IndexOutOfBoundsException
+  - Linking cause and consequence

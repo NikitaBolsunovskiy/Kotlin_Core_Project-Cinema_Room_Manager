@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: java.lang.ArithmeticException
+  - text: String
+  - text: com.example.TestClassNames.InnerClass
+  - text: Class.forName
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20657#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 30 Jul 2024 11:23:25 UTC"
+record: -1
+selected_options:
+  - 0
+  - 2
+local_check: false

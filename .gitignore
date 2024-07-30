@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager (Kotlin)/task/build/
+/Cinema Room Manager (Kotlin)/task/build/classes/java/test/
+/Topics/Errors in programs/Sum of individual digits in a certain range/build/
+/Topics/Floating-point types/Difference between two doubles/build/
+/Topics/Floating-point types/Find the value of the variable/build/
+/Topics/Floating-point types/What is the result/build/
+/Topics/For loop and ranges/Check the order/build/
+/Topics/For loop and ranges/The maximum pairwise product/build/
+/Topics/Ranges/Not in range/build/
+/Topics/While loops/The sequence 1 2 2 3 3 3/build/
+/Topics/While loops/What does the code print (1)/build/

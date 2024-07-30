@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 123
+  - text: 1
+  - text: 3
+  - text: 23
+  - text: 2
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5966#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 30 Jul 2024 08:45:23 UTC"
+record: -1
+selected_options:
+  - 4
+local_check: false

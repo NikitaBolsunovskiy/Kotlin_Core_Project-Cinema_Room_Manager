@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: ArithmeticException
+  - text: ArithmeticNumberException
+  - text: NumberFormatException
+  - text: ArithmeticalException
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/18771#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 30 Jul 2024 12:50:33 UTC"
+record: -1
+selected_options:
+  - 0
+local_check: false

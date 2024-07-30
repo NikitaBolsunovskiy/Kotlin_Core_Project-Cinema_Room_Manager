@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <b>fun</b> keyword
+  - text: name
+  - text: "the curly braces <b>{ }</b>"
+  - text: parentheses <b>()</b>
+  - text: a return type
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4582#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 30 Jul 2024 08:33:09 UTC"
+record: -1
+selected_options:
+  - 0
+  - 1
+  - 2
+  - 3
+custom_name: What should be specified?
+local_check: false

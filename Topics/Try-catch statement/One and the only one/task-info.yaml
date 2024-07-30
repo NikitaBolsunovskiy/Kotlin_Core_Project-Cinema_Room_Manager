@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "Always, because it is more universal"
+  - text: If a try-catch statement consists of one catch block
+  - text: If we want to catch all exceptions in one
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20600#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 30 Jul 2024 13:05:48 UTC"
+record: -1
+selected_options:
+  - 2
+local_check: false

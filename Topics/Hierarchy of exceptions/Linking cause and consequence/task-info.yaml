@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: IndexOutOfBoundsException
+  - text: NullPointerException
+  - text: ArrayIndexOutOfBoundsException
+  - text: NoSuchElementException
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47274#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 30 Jul 2024 12:27:08 UTC"
+record: -1
+selected_options:
+  - 0
+local_check: false

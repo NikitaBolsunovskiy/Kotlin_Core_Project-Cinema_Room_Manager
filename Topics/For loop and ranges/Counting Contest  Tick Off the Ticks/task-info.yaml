@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <pre><code class="kotlin">for (num in 1 until 6) print(num)</code></pre>
+  - text: <pre><code class="kotlin">for (num in 1..5) print(num)</code></pre>
+  - text: <pre><code class="kotlin">for (num in 1..&lt;5) print(num)</code></pre>
+  - text: <pre><code class="kotlin">for (num in 5 downTo 1) print(num)</code></pre>
+  - text: <pre><code class="kotlin">for (num in 1..5 step 1) print(num)</code></pre>
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47960#comment
+status: Solved
+record: -1
+selected_options:
+  - 0
+  - 2
+  - 3
+  - 4
+custom_name: "Counting Contest: Tick Off the Ticks!"
+local_check: false

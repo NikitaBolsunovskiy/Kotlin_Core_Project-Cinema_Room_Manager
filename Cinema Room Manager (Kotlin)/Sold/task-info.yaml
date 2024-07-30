@@ -1,0 +1,15 @@
+type: edu
+custom_name: Sold!
+files:
+  - name: src/cinema/Cinema.kt
+    visible: true
+    learner_created: false
+  - name: test/CinemaTests.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11365#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 25 May 2024 08:01:55 UTC"
+record: 2
