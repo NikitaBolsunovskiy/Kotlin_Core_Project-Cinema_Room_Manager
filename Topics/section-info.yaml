@@ -17,3 +17,4 @@ content:
   - Try-catch statement
   - The try-catch-finally statement
   - Floating-point types
+  - Mutable Map and Mutable Set as interfaces

@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "val set2: MutableSet&lt;Int&gt; = linkedSetOf(4, 5, 6)"
+  - text: "val map2: Map&lt;Int, String&gt; = hashMapOf(3 to \"cherry\", 4 to \"date\"\
+    )"
+  - text: "val set1: Set&lt;Int&gt; = mutableSetOf(1, 2, 3)"
+  - text: "val map1 = mutableMapOf(1 to \"apple\", 2 to \"banana\")"
+  - text: "val map3: MutableMap&lt;Int, String&gt; = mapOf(5 to \"elderberry\").toMutableMap()"
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/44213#comment
+status: Failed
+feedback:
+  message: Answer choices will be shuffled next time.
+  time: "Tue, 30 Jul 2024 16:30:58 UTC"
+record: -1
+selected_options:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+local_check: false
