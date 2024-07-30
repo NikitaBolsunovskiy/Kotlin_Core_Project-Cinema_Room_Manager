@@ -12,10 +12,7 @@ files:
     visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/44213#comment
-status: Failed
-feedback:
-  message: Answer choices will be shuffled next time.
-  time: "Tue, 30 Jul 2024 16:30:58 UTC"
+status: Solved
 record: -1
 selected_options:
   - 0
